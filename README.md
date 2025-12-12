@@ -1,4 +1,4 @@
-##### **📈 Netflix Stock Prediction System**
+#### **📈 Netflix Stock Prediction System**
 
 A machine learning–powered web application that predicts Netflix (NFLX) stock closing prices based on historical financial data and engineered features.
 
