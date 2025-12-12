@@ -1,8 +1,8 @@
-#### **📈 Netflix Stock Prediction System**
+###  **📈 Netflix Stock Prediction System**
 
 A machine learning–powered web application that predicts Netflix (NFLX) stock closing prices based on historical financial data and engineered features.
 
-##### 🚀 Features
+### 🚀 Features
 
 Trains four regression models: Linear Regression, Ridge, Lasso, Random Forest
 
@@ -25,14 +25,6 @@ Frontend / UI: Streamlit, Plotly
 Backend Logic: Python
 
 Tools: Git, VS Code
-
-📂 Project Structure
-📁 Netflix-Stock-Prediction
-│── app.py                # Streamlit UI
-│── ml_core.py            # ML pipeline, preprocessing, model training, prediction logic
-│── NFLX.csv              # Dataset
-│── requirements.txt      # Dependencies
-└── .streamlit/config.toml (optional theme)
 
 ### ⚙️ Installation & Setup
 1️⃣ Clone the repository
