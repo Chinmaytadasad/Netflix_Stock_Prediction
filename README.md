@@ -1,8 +1,8 @@
-#### **📈 Netflix Stock Prediction System**
+##### **📈 Netflix Stock Prediction System**
 
 A machine learning–powered web application that predicts Netflix (NFLX) stock closing prices based on historical financial data and engineered features.
 
-###🚀 Features
+##### 🚀 Features
 
 Trains four regression models: Linear Regression, Ridge, Lasso, Random Forest
 
@@ -16,7 +16,7 @@ Interactive Streamlit dashboard for real-time predictions
 
 Visual trend analysis using Plotly charts
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Machine Learning: Scikit-Learn, Pandas, NumPy
 
@@ -34,15 +34,15 @@ Tools: Git, VS Code
 │── requirements.txt      # Dependencies
 └── .streamlit/config.toml (optional theme)
 
-###⚙️ Installation & Setup
+### ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/netflix-stock-prediction.git
 cd netflix-stock-prediction
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-###3️⃣ Run the application
+### 3️⃣ Run the application
 streamlit run app.py
 
 
@@ -50,7 +50,7 @@ The dashboard will open at:
 
 ➡️ http://localhost:8501/
 
-###📊 Model Details
+### 📊 Model Details
 
 The system trains and compares four models:
 
@@ -62,7 +62,7 @@ Random Forest	Ensemble method, handles non-linear patterns
 
 The best model is selected based on R² score.
 
-###🧠 How Prediction Works
+### 🧠 How Prediction Works
 
 User enters stock values (Open, High, Low, Volume, Date).
 
@@ -76,7 +76,7 @@ Regression models or Random Forest generate a price estimate.
 
 The result appears instantly on the dashboard.
 
-###📉 Stock Trend Visualization
+### 📉 Stock Trend Visualization
 
 The app includes:
 
@@ -86,7 +86,7 @@ Interactive Plotly visualization
 
 Date-based filtering (optional extension)
 
-###✨ Future Enhancements
+### ✨ Future Enhancements
 
 Add LSTM or ARIMA for time-series forecasting
 
@@ -96,12 +96,12 @@ Add technical indicators (SMA, EMA, RSI, MACD)
 
 Enhance UI with advanced charting features
 
-###🤝 Contributing
+### 🤝 Contributing
 
 Pull requests and suggestions are welcome!
 If you’d like to contribute, feel free to open an issue.
 
-###📬 Contact
+### 📬 Contact
 
 Author: Chinmay Tadasad
 📧 chinmaytadasad1@gmail.com
